@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/wilsontys/wilsontys/blob/main/wilson_tan.jpg)
+![alt text](https://github.com/wilsontys/wilsontys/blob/main/wilson_tan_150x150.jpg)
 
 <!-- Add your details -->
 
