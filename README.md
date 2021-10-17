@@ -1,11 +1,11 @@
 <!-- CONTACT Section Starts -->
 ### CONTACT
 
-<!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+<!-- Add your details 
+✉️:  
+📲 +91-XXXXXXXXXX
+-->
+[LinkedIn](https://linkedin.com/in/wilsontys) 
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
@@ -16,7 +16,13 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am Wilson Tan, An experienced manager with a diverse background of over 15 years of experience in leading high performance teams and managing sales and business operations. I possess several skills and competencies which can be applied in a number of roles. As a lifelong learner, I am currently participating in the Rapid & Immersive Skill Enhancement (RISE) programme by Boston Consulting Group (BCG)- a unique 6-month SGUnited Mid-Career Pathways Programme designed to build high-demand business and digital skills. 
+
+I have been posted to Singapore, Malaysia and Indonesia as part of my work in the aviation industry. I have been successful in executing a number of business strategy and operation for the organisation.  Among my accomplishments: an increased in SME sales revenue by 300% in 9 months, an expansion in the number of local accounts by 200% in less than a year and driving an annual revenue growth in the premium cabins by 30% for 2 years. 
+
+I have come to realise that working with people, helping them understand complicated or frustrating concepts, and serving as a platform for my team to excel are some of the things that I love to do. I believe there is always something to learn, and with the advancement in the digital and technological space, there is always something new. I enjoy collaborating with others to gain different perspectives to refine strategies. With the huge amount of data sets available in today's world, my curiosity drives the analytical side of me as I search for answers about why some strategies are performing above or below expectations.
+
+Competencies: business development, revenue management, business analysis, data analysis, sales & marketing management, stakeholders engagementa seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
