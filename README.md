@@ -42,7 +42,6 @@ October 2018 to December 2020
 - Authored the business plans, forecast, budgets short-term growth strategies
 - Generated over 100% increase in sales revenue 
 
-<br>
 **CATHAY PACIFIC AIRWAYS LTD <br>
 Assistant Manager Corporate Sales** <br>
 June 2017 to September 2018
