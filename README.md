@@ -125,12 +125,12 @@ Bachelor of Business Administration, 1998
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
-<!-- Add your details -->
-[//]: # ([Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>)
+<!-- Add your details ### PROJECTS-->
+<!-- Add your details 
+[Classification based projects](#classification-based-projects) <br>
+[Regression based projects](#regression-based-projects) <br>-->
 
-<!-- Add your details -->
+<!-- Add your details
 
 #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
@@ -144,16 +144,16 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression) -->
 
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
-## FEATURED
+<!--## FEATURED -->
 <!-- Add your details -->
-##### Certifications
-Machine Learning by Columbia University
+<!-- ##### Certifications 
+Machine Learning by Columbia University -->
 
-##### Achievements
-Star performer of the year at Accenture
+<!-- ##### Achievements
+Star performer of the year at Accenture-->
 <!-- FEATURED Section Ends -->
