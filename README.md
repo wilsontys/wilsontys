@@ -35,28 +35,54 @@ Competencies: business development, revenue management, business analysis, data 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-**ARTZY PTE LTD
-General Manager**<br>
+**ARTZY PTE LTD <br>
+General Manager** <br>
 October 2018 to December 2020
 
 - Directed the company’s operations, payroll, finance, marketing, customer service and corporate regulatory functions
 - Authored the business plans, forecast, budgets short-term growth strategies
 - Generated over 100% increase in sales revenue 
-
-<br>**CATHAY PACIFIC AIRWAYS LTD
-Assistant Manager Corporate Sales**<br>
+<br>
+**CATHAY PACIFIC AIRWAYS LTD <br>
+Assistant Manager Corporate Sales** <br>
 June 2017 to September 2018
 - Head of Cathay Pacific corporate sales team in Singapore
 - Implemented the corporate account development plan and spearheaded the airline’s direct sales online portal for SME 
 - Expanded the sales revenue from the SME segment by 300% in 9 months
-
-
-**LUFTHANSA GERMAN AIRLINES
-Key Account Manager**<br>
+<br>
+**LUFTHANSA GERMAN AIRLINES <br>
+Key Account Manager** <br>
 February 2016 to December 2016
 - Main driver for the corporate sales and account development in Singapore 
 - Identified and created new business opportunities for the airline
 - Expanded the number of local corporate accounts by 200% through data mining and targeted stakeholders’ engagement campaign
+<br>
+**SILKAIR (S) PTE LTD	<br>
+Manager Sabah, Malaysia and General Manager, Malaysia** <br>
+September 2013 – February 2016
+- Managed SilkAir’s business operations in Malaysia and the SIA Group’s commercial and marketing activities in East Malaysia
+- Engaged in strategic partnerships with key stakeholders of the industry to expand the SIA Group’s business interest
+- Drove an annual revenue growth in the premium cabins by 30% for 2 consecutive years
+- Increased the Internet penetration rate for sales by over 40% within 2 years
+- Led the airline in winning the Sabah Tourism Board's Best Foreign Airline in 2013
+<br>
+**Manager Lombok & Sumbawa, Indonesia** <br>
+September 2012 – August 2013
+•	Reorganised the airline’s commercial and marketing activities in Lombok
+•	Conducted the airline’s functions including airport operations, customer service, finance, public relations and corporate regulatory functions
+•	Set up a new local office and operations in Makassar, South Sulawesi, Indonesia
+•	Increased the cargo sales revenue by over 350% in less than a year
+
+Ground Services Executive	APR 2012 – AUG 2012
+•	Supervised the airline’s operations in Singapore’s Changi Airport
+•	Reduced the baggage mishandling rate by 10% in a quarter 
+
+Passenger Sales Executive	NOV 2010 – MAR 2012
+•	Mentored the airline's contact centre operations in Pune and Mumbai, India
+•	Analysed market information and crafted new marketing plans to address declining sales or new growth opportunities 
+•	Improved customer satisfaction rate with the contact centre by over 10% within 2 years through the development of a new training plan for contact centre agents
+
+
 
 
 <!-- EXPERIENCE Section Ends -->
