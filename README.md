@@ -16,12 +16,13 @@
 
 <!-- Add your details -->
 
-An experienced manager with a diverse background of over 15 years of experience in leading high performance teams and managing sales and business operations. I am transitioning into a data and business analytics role after completing the Boston Consulting Group (BCG) led and SkillsFuture Singapore (SSG) initiated Rapid & Immersive Skill Enhancement (RISE) programme - a unique 6-month SGUnited Mid-Career Pathways Programme designed to build high-demand business and digital skills. 
+An experienced manager with a diverse background of over 15 years of experience in leading high performance teams, I am looking to transition into a role whereby my data and business analytics skills can be put to good use. I am no stranger to data and analytical tools like Excel, Power BI, SQL and Python. 
 
-With over 15 years of experience in leading global teams in Singapore, Malaysia and Indonesia, I have been successful in driving strong annual performances from my offices and departments. Among my accomplishments: an increased in SME sales revenue by 300% in 9 months, an expansion in the number of local accounts by 200% in less than a year and driving an annual revenue growth in specific market segments by 30% for 2 years running. Recently, I have contributed to 5 Python focused mini-projects, 1 hackathon and 1 capstone project. 
+Working with data is exciting and satisfying. I would like to help everyone make informed decisions and to stop guessing! I have also enjoyed generating new ideas and using data insights to devise feasible solutions to broadly relevant problems. There is a sense of accomplishment when I am able to boldly go where no man has gone before. In addition, being a Certified ScrumMaster® (CSM®), I am a keen practitioner in Agile management and Scrum. Originally developed in the software industry, I believe the Agile approach has the potential to transform the way we operate in today's world. 
+
+With over 15 years of experience in leading global teams in Singapore, Malaysia and Indonesia, I have been successful in driving strong annual performances from my previous appointments. Among my accomplishments: an increased in SME sales revenue by 300% and an expansion in the number of accounts by 200% in less than a year. As part of my recent training in the Rapid & Immersive Skill Enhancement (RISE) programme by Boston Consulting Group, I have contributed to 5 Python focused mini-projects, 1 hackathon and 1 capstone project. 
 
 Competencies: business development, revenue management, business analysis, data analysis, sales & marketing management, stakeholders engagement
-
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
@@ -34,14 +35,13 @@ Competencies: business development, revenue management, business analysis, data 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### ARTZY PTE LTD
+**General Manager**<br>
+October 2018 to December 2020
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
-
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+- Directed the company’s operations, payroll, finance, marketing, customer service and corporate regulatory functions
+- Authored the business plans, forecast, budgets short-term growth strategies
+- Generated over 100% increase in sales revenue 
 
 <!-- EXPERIENCE Section Ends -->
 
