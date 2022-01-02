@@ -27,8 +27,8 @@ Competencies: business development, revenue management, business analysis, data 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
 [Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
+<!-- [Projects](#projects) <br>
+[Featured](#featured) <br> -->
 
 <!-- ABOUT Section Ends -->
 
