@@ -35,8 +35,8 @@ Competencies: business development, revenue management, business analysis, data 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-#### ARTZY PTE LTD
-**General Manager**<br>
+**ARTZY PTE LTD
+General Manager**<br>
 October 2018 to December 2020
 
 - Directed the company’s operations, payroll, finance, marketing, customer service and corporate regulatory functions
@@ -44,16 +44,16 @@ October 2018 to December 2020
 - Generated over 100% increase in sales revenue 
 
 
-#### CATHAY PACIFIC AIRWAYS LTD
-**Assistant Manager Corporate Sales**<br>
+**CATHAY PACIFIC AIRWAYS LTD
+Assistant Manager Corporate Sales**<br>
 June 2017 to September 2018
 - Head of Cathay Pacific corporate sales team in Singapore
 - Implemented the corporate account development plan and spearheaded the airline’s direct sales online portal for SME 
 - Expanded the sales revenue from the SME segment by 300% in 9 months
 
 
-#### LUFTHANSA GERMAN AIRLINES
-**Key Account Manager**<br>
+**LUFTHANSA GERMAN AIRLINES
+Key Account Manager**<br>
 February 2016 to December 2016
 - Main driver for the corporate sales and account development in Singapore 
 - Identified and created new business opportunities for the airline
