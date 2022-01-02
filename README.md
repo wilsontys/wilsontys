@@ -127,8 +127,8 @@ Bachelor of Business Administration, 1998
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-[//]: # [Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+[//]: # ([Classification based projects](#classification-based-projects) <br>
+[Regression based projects](#regression-based-projects) <br>)
 
 <!-- Add your details -->
 
