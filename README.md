@@ -42,8 +42,8 @@ October 2018 to December 2020
 - Authored the business plans, forecast, budgets short-term growth strategies
 - Generated over 100% increase in sales revenue 
 
-
-<p>**CATHAY PACIFIC AIRWAYS LTD <br>
+<p>
+**CATHAY PACIFIC AIRWAYS LTD <br>
 Assistant Manager Corporate Sales** <br>
 June 2017 to September 2018
 - Head of Cathay Pacific corporate sales team in Singapore
