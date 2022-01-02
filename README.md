@@ -43,7 +43,7 @@ October 2018 to December 2020
 - Generated over 100% increase in sales revenue 
 
 
-**CATHAY PACIFIC AIRWAYS LTD <br>
+<p>**CATHAY PACIFIC AIRWAYS LTD <br>
 Assistant Manager Corporate Sales** <br>
 June 2017 to September 2018
 - Head of Cathay Pacific corporate sales team in Singapore
