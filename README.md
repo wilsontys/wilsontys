@@ -55,7 +55,7 @@ February 2016 to December 2016
 - Main driver for the corporate sales and account development in Singapore 
 - Identified and created new business opportunities for the airline
 - Expanded the number of local corporate accounts by 200% through data mining and targeted stakeholders’ engagement campaign
-<br>
+
 **SILKAIR (S) PTE LTD	<br>
 Manager Sabah, Malaysia and General Manager, Malaysia** <br>
 September 2013 – February 2016
@@ -64,41 +64,70 @@ September 2013 – February 2016
 - Drove an annual revenue growth in the premium cabins by 30% for 2 consecutive years
 - Increased the Internet penetration rate for sales by over 40% within 2 years
 - Led the airline in winning the Sabah Tourism Board's Best Foreign Airline in 2013
-<br>
+
 **Manager Lombok & Sumbawa, Indonesia** <br>
 September 2012 – August 2013
-•	Reorganised the airline’s commercial and marketing activities in Lombok
-•	Conducted the airline’s functions including airport operations, customer service, finance, public relations and corporate regulatory functions
-•	Set up a new local office and operations in Makassar, South Sulawesi, Indonesia
-•	Increased the cargo sales revenue by over 350% in less than a year
+- Reorganised the airline’s commercial and marketing activities in Lombok
+- Conducted the airline’s functions including airport operations, customer service, finance, public relations and corporate regulatory functions
+- Set up a new local office and operations in Makassar, South Sulawesi, Indonesia
+- Increased the cargo sales revenue by over 350% in less than a year
 
-Ground Services Executive	APR 2012 – AUG 2012
-•	Supervised the airline’s operations in Singapore’s Changi Airport
-•	Reduced the baggage mishandling rate by 10% in a quarter 
+**Ground Services Executive** <br>
+April 2012 – August 2012
+- Supervised the airline’s operations in Singapore’s Changi Airport
+- Reduced the baggage mishandling rate by 10% in a quarter 
 
-Passenger Sales Executive	NOV 2010 – MAR 2012
-•	Mentored the airline's contact centre operations in Pune and Mumbai, India
-•	Analysed market information and crafted new marketing plans to address declining sales or new growth opportunities 
-•	Improved customer satisfaction rate with the contact centre by over 10% within 2 years through the development of a new training plan for contact centre agents
+**Passenger Sales Executive**	
+November 2010 – March 2012
+- Mentored the airline's contact centre operations in Pune and Mumbai, India
+- Analysed market information and crafted new marketing plans to address declining sales or new growth opportunities 
+- Improved customer satisfaction rate with the contact centre by over 10% within 2 years through the development of a new training plan for contact centre agents
 
+**SYOGOC (SINGAPORE YOUTH OLYMPIC GAMES ORGANISING COMMITTEE) <br>
+Manager Command and Control**	<br>
+July 2009 – September 2010
+- Facilitated threat and risk analysis and authored the contingency and emergency response plans for the Youth Olympic Games (YOG)
+- Steered 4 table top exercises and training in contingency and emergency response for the YOG
 
+**Manager Volunteer Management** <br>
+March 2009 – June 2009
+- Recruited over 1,000 volunteers for the YOG within 3 months through engagement with the local institutes of higher learning
 
+**TEMASEK POLYTECHNIC	<br>
+Student Development Officer** <br>
+September 2004 – August 2008
+- Organised and guided the polytechnic’s sports teams in inter-tertiary, national and international competitions
+- Co-ordinated over 30 winning sports teams and won more than 100 medals for the polytechnic in 4 years
+- Conducted 2 Overseas Community Services Projects in Indonesia and Cambodia
 
+**SINGEX VENUES PTE LTD	<br>
+Assistant Sales Manager** <br>
+August 2003 – August 2004
+- Negotiated commercial contracts and proposed pricing strategies for the major trade shows in Singapore Expo
+- Introduced a new “warehouse sales” segment in Singapore Expo
+- Generated over half a million dollars in new business
+
+**PEOPLE’S ASSOCIATION <br>
+Senior Youth Officer** <br>
+August 1999 – December 2002
+- Conceptualized events for the People’s Association and the Youth Movement Section (PAYM)
+- Mentored and guided the Community Centres / Clubs Youth Executive Committees
+- Headed the Overseas Community Services Project to Nepal 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
+
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+**NATIONAL UNIVERSITY OF SINGAPORE**
+Bachelor of Business Administration, 1998
 
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-
-[Classification based projects](#classification-based-projects) <br>
+[//]: # [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
 
 <!-- Add your details -->
