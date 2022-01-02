@@ -42,14 +42,15 @@ October 2018 to December 2020
 - Authored the business plans, forecast, budgets short-term growth strategies
 - Generated over 100% increase in sales revenue 
 
-<p>**CATHAY PACIFIC AIRWAYS LTD <br>
+
+**CATHAY PACIFIC AIRWAYS LTD <br>
 Assistant Manager Corporate Sales** <br>
 June 2017 to September 2018
 - Head of Cathay Pacific corporate sales team in Singapore
 - Implemented the corporate account development plan and spearheaded the airline’s direct sales online portal for SME 
 - Expanded the sales revenue from the SME segment by 300% in 9 months
 
-<p>**LUFTHANSA GERMAN AIRLINES <br>
+**LUFTHANSA GERMAN AIRLINES <br>
 Key Account Manager** <br>
 February 2016 to December 2016
 - Main driver for the corporate sales and account development in Singapore 
